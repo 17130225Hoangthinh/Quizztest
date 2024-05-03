@@ -1,0 +1,230 @@
+    INFO: 2024-05-03 12:08:59,590:               log.py:   20: Logging to /Volumes/PoorHouseProject/Học Thạc sĩ/giao tiếp/exam-generator/mdpdf.log
+   DEBUG: 2024-05-03 12:08:59,590:               cli.py:  103: __temp.md
+    INFO: 2024-05-03 12:08:59,595:         converter.py:   14: __temp.md
+   DEBUG: 2024-05-03 12:08:59,604:      pdf_renderer.py:  470: printSegment: 1.   Trong Java, câu lệnh nào dùng để khai báo một biến kiểu số nguyên?
+   DEBUG: 2024-05-03 12:08:59,623:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,625:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,627:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,627:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,628:      pdf_renderer.py:  470: printSegment:  int
+   DEBUG: 2024-05-03 12:08:59,629:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,629:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,630:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,630:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,631:      pdf_renderer.py:  470: printSegment:  integer
+   DEBUG: 2024-05-03 12:08:59,632:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,632:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,633:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,633:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,634:      pdf_renderer.py:  470: printSegment:  String
+   DEBUG: 2024-05-03 12:08:59,634:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,635:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,635:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,636:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,636:      pdf_renderer.py:  470: printSegment:  double
+   DEBUG: 2024-05-03 12:08:59,637:      pdf_renderer.py:  470: printSegment: 2.   Để thực hiện một vòng lặp trong Java, chúng ta sử dụng từ khóa nào sau đây?
+   DEBUG: 2024-05-03 12:08:59,650:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,650:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,651:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,652:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,652:      pdf_renderer.py:  470: printSegment:  foreach
+   DEBUG: 2024-05-03 12:08:59,653:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,653:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,654:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,654:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,655:      pdf_renderer.py:  470: printSegment:  while
+   DEBUG: 2024-05-03 12:08:59,655:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,656:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,656:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,657:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,657:      pdf_renderer.py:  470: printSegment:  for
+   DEBUG: 2024-05-03 12:08:59,658:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,659:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,659:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,660:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,660:      pdf_renderer.py:  470: printSegment:  loop
+   DEBUG: 2024-05-03 12:08:59,661:      pdf_renderer.py:  470: printSegment: 3.   Phương thức nào được sử dụng để lấy độ dài của một chuỗi trong Java?
+   DEBUG: 2024-05-03 12:08:59,662:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,663:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,663:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,664:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,664:      pdf_renderer.py:  470: printSegment:  getLength()
+   DEBUG: 2024-05-03 12:08:59,665:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,666:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,666:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,667:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,667:      pdf_renderer.py:  470: printSegment:  size()
+   DEBUG: 2024-05-03 12:08:59,668:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,668:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,669:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,670:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,670:      pdf_renderer.py:  470: printSegment:  length()
+   DEBUG: 2024-05-03 12:08:59,671:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,671:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,672:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,673:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,673:      pdf_renderer.py:  470: printSegment:  length
+   DEBUG: 2024-05-03 12:08:59,674:      pdf_renderer.py:  470: printSegment: 4.   Trong Java, các phương thức và thuộc tính được gọi tổng chung với thuật ngữ nào sau đây?
+   DEBUG: 2024-05-03 12:08:59,675:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,675:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,676:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,677:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,677:      pdf_renderer.py:  470: printSegment:  Phần tử của lớp (class)
+   DEBUG: 2024-05-03 12:08:59,694:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,695:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,696:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,697:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,697:      pdf_renderer.py:  470: printSegment:  Đối tượng (object)
+   DEBUG: 2024-05-03 12:08:59,698:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,699:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,699:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,700:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,700:      pdf_renderer.py:  470: printSegment:  Khối (block)
+   DEBUG: 2024-05-03 12:08:59,701:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,702:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,702:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,703:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,704:      pdf_renderer.py:  470: printSegment:  Hằng số (constant)
+   DEBUG: 2024-05-03 12:08:59,705:      pdf_renderer.py:  470: printSegment: 5.   Để chuyển đổi một kiểu dữ liệu sang kiểu String trong Java, chúng ta sử dụng phương thức nào sau đây?
+   DEBUG: 2024-05-03 12:08:59,705:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,706:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,707:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,707:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,708:      pdf_renderer.py:  470: printSegment:  convertToString()
+   DEBUG: 2024-05-03 12:08:59,709:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,709:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,710:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,711:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,711:      pdf_renderer.py:  470: printSegment:  parseString()
+   DEBUG: 2024-05-03 12:08:59,712:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,713:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,713:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,714:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,715:      pdf_renderer.py:  470: printSegment:  toString()
+   DEBUG: 2024-05-03 12:08:59,715:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,716:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,717:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,717:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,718:      pdf_renderer.py:  470: printSegment:  toText()
+   DEBUG: 2024-05-03 12:08:59,719:      pdf_renderer.py:  470: printSegment: 6.   Trong Java, lớp (class) nào được sử dụng để đọc dữ liệu từ bàn phím?
+   DEBUG: 2024-05-03 12:08:59,719:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,720:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,721:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,721:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,722:      pdf_renderer.py:  470: printSegment:  InputScanner
+   DEBUG: 2024-05-03 12:08:59,723:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,723:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,724:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,724:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,725:      pdf_renderer.py:  470: printSegment:  ReadInput
+   DEBUG: 2024-05-03 12:08:59,726:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,726:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,727:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,728:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,728:      pdf_renderer.py:  470: printSegment:  Scanner
+   DEBUG: 2024-05-03 12:08:59,729:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,730:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,730:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,731:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,732:      pdf_renderer.py:  470: printSegment:  KeyboardReader
+   DEBUG: 2024-05-03 12:08:59,733:      pdf_renderer.py:  470: printSegment: 7.   Để khai báo một mảng kiểu số nguyên trong Java, chúng ta sử dụng cú pháp nào sau đây?
+   DEBUG: 2024-05-03 12:08:59,733:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,734:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,735:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,735:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,736:      pdf_renderer.py:  470: printSegment:  int
+   DEBUG: 2024-05-03 12:08:59,737:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,737:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,738:      pdf_renderer.py:  470: printSegment:  numbers;
+   DEBUG: 2024-05-03 12:08:59,739:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,739:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,740:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,741:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,741:      pdf_renderer.py:  470: printSegment:  array numbers
+   DEBUG: 2024-05-03 12:08:59,742:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,743:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,743:      pdf_renderer.py:  470: printSegment: ;
+   DEBUG: 2024-05-03 12:08:59,744:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,745:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,745:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,746:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,747:      pdf_renderer.py:  470: printSegment:  int
+   DEBUG: 2024-05-03 12:08:59,747:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,748:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,749:      pdf_renderer.py:  470: printSegment:  numbers = new int
+   DEBUG: 2024-05-03 12:08:59,750:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,750:      pdf_renderer.py:  470: printSegment: 5
+   DEBUG: 2024-05-03 12:08:59,751:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,752:      pdf_renderer.py:  470: printSegment: ;
+   DEBUG: 2024-05-03 12:08:59,752:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,753:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,754:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,754:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,755:      pdf_renderer.py:  470: printSegment:  numbers = new Array
+   DEBUG: 2024-05-03 12:08:59,756:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,756:      pdf_renderer.py:  470: printSegment: 5
+   DEBUG: 2024-05-03 12:08:59,757:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,758:      pdf_renderer.py:  470: printSegment: ;
+   DEBUG: 2024-05-03 12:08:59,759:      pdf_renderer.py:  470: printSegment: 8.   Để so sánh hai chuỗi trong Java, chúng ta sử dụng phương thức nào sau đây?
+   DEBUG: 2024-05-03 12:08:59,760:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,760:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,761:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,762:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,763:      pdf_renderer.py:  470: printSegment:  equalsStrings()
+   DEBUG: 2024-05-03 12:08:59,763:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,764:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,765:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,765:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,766:      pdf_renderer.py:  470: printSegment:  compare()
+   DEBUG: 2024-05-03 12:08:59,767:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,767:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,768:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,769:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,770:      pdf_renderer.py:  470: printSegment:  equals()
+   DEBUG: 2024-05-03 12:08:59,770:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,771:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,772:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,772:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,773:      pdf_renderer.py:  470: printSegment:  checkString()
+   DEBUG: 2024-05-03 12:08:59,774:      pdf_renderer.py:  470: printSegment: 9.   Trong Java, từ khóa nào được sử dụng để ngắt một vòng lặp?
+   DEBUG: 2024-05-03 12:08:59,775:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,776:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,776:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,777:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,778:      pdf_renderer.py:  470: printSegment:  exit
+   DEBUG: 2024-05-03 12:08:59,779:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,780:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,780:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,781:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,782:      pdf_renderer.py:  470: printSegment:  break
+   DEBUG: 2024-05-03 12:08:59,783:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,783:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,784:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,785:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,786:      pdf_renderer.py:  470: printSegment:  stop
+   DEBUG: 2024-05-03 12:08:59,786:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,787:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,788:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,789:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,789:      pdf_renderer.py:  470: printSegment:  terminate
+   DEBUG: 2024-05-03 12:08:59,795:      pdf_renderer.py:  470: printSegment: 10.   Để đọc một số nguyên từ bàn phím trong Java, chúng ta sử dụng phương thức nào của lớp Scanner?
+   DEBUG: 2024-05-03 12:08:59,796:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,797:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,798:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,798:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,799:      pdf_renderer.py:  470: printSegment:  readInt()
+   DEBUG: 2024-05-03 12:08:59,799:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,800:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,800:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,801:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,801:      pdf_renderer.py:  470: printSegment:  getInt()
+   DEBUG: 2024-05-03 12:08:59,802:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,802:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,803:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,803:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,804:      pdf_renderer.py:  470: printSegment:  nextInt()
+   DEBUG: 2024-05-03 12:08:59,804:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-05-03 12:08:59,805:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2024-05-03 12:08:59,805:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-05-03 12:08:59,806:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2024-05-03 12:08:59,806:      pdf_renderer.py:  470: printSegment:  inputInt()
